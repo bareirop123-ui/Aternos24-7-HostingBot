@@ -34,6 +34,8 @@
         "I'm a regular player",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
+        "lucas es gay" 
+        "pito chico te amo" 
       ]
     },
     "chat-log": true,
@@ -70,12 +72,12 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
